@@ -1,5 +1,7 @@
 import React from 'react'
 
+//Teste de criação de elementos de formas diferentes
+
 const nome = 'Lucas'
 
 const element = React.createElement('h1', {className: 'header1 todos'}, 'Hello, World!')
